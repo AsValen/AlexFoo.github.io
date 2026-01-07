@@ -1,7 +1,8 @@
 ﻿import { GameCard } from "./GameCard.js";
 
 const gameData = {
-    image: "images/furosha.jpg",
+    //images/furosha.jpg
+    image: "",
     creation: {
         people: "11",
         time: "3 Months",

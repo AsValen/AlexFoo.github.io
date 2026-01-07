@@ -4,7 +4,7 @@ const app = document.getElementById("app");
 // define routes mapping page names to HTML files using an object
 const routes = {
     home: "pages/home.html",
-    about: "pages/about.html",
+    about: "pages/about.html"
     //contact: "pages/contact.html"
 };
 
